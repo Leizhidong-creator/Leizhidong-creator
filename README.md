@@ -176,8 +176,6 @@ location: Taiyuan, Shanxi, China
 
 **口袋参谋 · Repository coming soon**
 
-<sub>项目成果与个人贡献见上方表格；仓库发布后加入第四张同款仓库卡。</sub>
-
 </div>
 
 ---
