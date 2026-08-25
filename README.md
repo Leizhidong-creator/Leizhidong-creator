@@ -49,7 +49,7 @@
 ```yaml
 name: Zhidong Lei
 role: AI Application Developer
-school: 太原理工大学
+school: 太原理工大学(211工程院校)
 major: 2025级计算机科学与技术专业
 class: 卓越工程师班
 program: TYUT 计算菁英计划
