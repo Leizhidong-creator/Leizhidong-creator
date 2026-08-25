@@ -162,7 +162,7 @@ location: Taiyuan, Shanxi, China
 | **[AI-Meeting-Room-System](https://github.com/Leizhidong-creator/AI-Meeting-Room-System)** | `15w+` 纯软件方案报价 | **项目 Owner**：主导语音处理链路、AI 工作流可靠性，以及采集端、Go 业务服务、FastAPI AI 服务与企业内网环境的整体交付。 |
 | **[Multi-Agent-Disaster-Simulation](https://github.com/Leizhidong-creator/Multi-Agent-Disaster-Simulation)** | 中国机器人及人工智能大赛<br>**国家级奖项** | **项目负责人**：主导快慢双脑架构、多智能体仿真、RAG 风险诊断、可视化工作区与干预复演闭环。 |
 | **Repository coming soon**<br><sub>口袋参谋 · 餐饮经营决策 Agent</sub> | 抖音 AI 创变者黑客松<br>武汉大区赛优秀作品 · **Top 10** | **核心开发者**：主导决策架构、四级证据链、实时视频专家连麦，以及 H5、FastAPI、知识库和工具服务的端到端联调。 |
-| **[Classical-Gardens-of-Suzhou](https://github.com/Leizhidong-creator/Classical-Gardens-of-Suzhou)** | 抖音 AI 创变者    山西赛区一等奖<br>**游园会之星** | **核心开发者**：负责 AI 生成式 3D 资产适配、2D/3D 混合渲染、空间交互、页面动效与复杂场景性能链路。 |
+| **[Classical-Gardens-of-Suzhou](https://github.com/Leizhidong-creator/Classical-Gardens-of-Suzhou)** | 抖音 AI 创变者黑客松<br>山西赛区一等奖<br>**游园会之星** | **核心开发者**：负责 AI 生成式 3D 资产适配、2D/3D 混合渲染、空间交互、页面动效与复杂场景性能链路。 |
 
 ---
 
