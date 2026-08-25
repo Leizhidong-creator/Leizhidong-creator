@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">A journey through Taiyuan, Wuhan, Tianjin, and Beijing</title>
+  <desc id="desc">A playful route representing learning, creating, building, and exploring.</desc>
+  <rect x="8" y="8" width="1184" height="284" rx="24" fill="#FFF8EA" stroke="#17212B" stroke-width="4"/>
+  <g font-family="'Bricolage Grotesque','Trebuchet MS','Microsoft YaHei',sans-serif" fill="#17212B">
+    <text x="48" y="53" font-size="23" font-weight="900">A small journey of learning, creating, and exploring.</text>
+    <text x="49" y="82" font-size="16" font-weight="700" fill="#FF6B57">一路学习，一路创造。</text>
+  </g>
+
+  <path id="route" d="M93 166 C220 98 302 224 413 166 S617 107 710 166 S919 222 1090 151" fill="none" stroke="#FF6B57" stroke-width="8" stroke-linecap="round" stroke-dasharray="3 17"/>
+  <path d="M93 166 C220 98 302 224 413 166 S617 107 710 166 S919 222 1090 151" fill="none" stroke="#17212B" stroke-width="2" stroke-linecap="round" opacity="0.65"/>
+
+  <g font-family="'IBM Plex Mono','Consolas',monospace" text-anchor="middle" fill="#17212B">
+    <g transform="translate(103 164)">
+      <circle r="26" fill="#FFD84D" stroke="#17212B" stroke-width="4"/>
+      <circle r="7" fill="#17212B"/>
+      <text y="56" font-size="18" font-weight="800">TAIYUAN</text>
+      <text y="80" font-size="13" font-weight="700" fill="#1F9FC3">LEARN</text>
+    </g>
+    <g transform="translate(412 166)">
+      <circle r="26" fill="#1F9FC3" stroke="#17212B" stroke-width="4"/>
+      <path d="M-9 0h18M0-9v18" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+      <text y="56" font-size="18" font-weight="800">WUHAN</text>
+      <text y="80" font-size="13" font-weight="700" fill="#FF6B57">CREATE &amp; VALIDATE</text>
+    </g>
+    <g transform="translate(710 166)">
+      <circle r="26" fill="#FF6B57" stroke="#17212B" stroke-width="4"/>
+      <path d="M-10 7l8-15 8 10 6-7 8 12z" fill="#FFFFFF"/>
+      <text y="56" font-size="18" font-weight="800">TIANJIN</text>
+      <text y="80" font-size="13" font-weight="700" fill="#1F9FC3">BUILD IN THE REAL WORLD</text>
+    </g>
+    <g transform="translate(1088 151)">
+      <circle r="26" fill="#FFD84D" stroke="#17212B" stroke-width="4"/>
+      <path d="M-9 8L0-12 9 8 0 3z" fill="#17212B"/>
+      <text y="71" font-size="18" font-weight="800">BEIJING</text>
+      <text y="95" font-size="13" font-weight="700" fill="#FF6B57">EXPLORE &amp; OBSERVE</text>
+    </g>
+  </g>
+
+  <g>
+    <g>
+      <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+      <path d="M-19-16c0-10 8-17 19-17h18c11 0 19 7 19 17V2c0 10-8 17-19 17H8L-5 31l2-12h-1c-9 0-15-7-15-17z" fill="#FFFFFF" stroke="#17212B" stroke-width="4"/>
+      <circle cx="-5" cy="-4" r="4" fill="#17212B"/>
+      <circle cx="17" cy="-4" r="4" fill="#17212B"/>
+      <path d="M-3 8c7 5 14 5 20 0" fill="none" stroke="#FF6B57" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="30" cy="-24" r="6" fill="#1F9FC3"/>
+    </g>
+  </g>
+</svg>
