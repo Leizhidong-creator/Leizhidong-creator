@@ -1,0 +1,31 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23F59E0B&color_dots=%23EBEDF0,%2367E8F9,%2322D3EE,%230891B2,%230E7490
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F59E0B&color_dots=%23161B22,%23164E63,%23155E75,%230E7490,%2322D3EE
+
+      - name: Publish generated SVG files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
