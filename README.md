@@ -65,6 +65,22 @@ location: Taiyuan, Shanxi, China
 
 ---
 
+## 🎮 Now Building — Create World
+
+<div align="center">
+  <a href="https://github.com/Leizhidong-creator/CreateWorld">
+    <img src="https://raw.githubusercontent.com/Leizhidong-creator/CreateWorld/main/assets/brand/banner.jpg" alt="Create World — 你的故事，世界的开始" width="100%" />
+  </a>
+</div>
+
+**Create World** 是一个 AI 游戏创作平台。给它一句话、一段小说或一集剧本，它做成一款能玩的 **2D 像素剧情游戏**；做完可以改，可以发布，也可以被别人二创。
+
+团队 4 人。我参与前端与产品体验：工作台、创作入口、社区与插件页面。
+
+[在线体验](https://createworld.games) · [源码](https://github.com/Leizhidong-creator/CreateWorld) · [产品介绍](https://github.com/Leizhidong-creator/CreateWorld/blob/main/PRODUCT.md)
+
+---
+
 ## 🔭 Currently Building & Learning
 
 <table>
@@ -170,6 +186,7 @@ location: Taiyuan, Shanxi, China
 
 <div align="center">
 
+[![Create World](https://github-readme-stats.vercel.app/api/pin/?username=Leizhidong-creator&repo=CreateWorld&theme=react&hide_border=true&bg_color=0D1117&icon_color=D8B878&title_color=D8B878)](https://github.com/Leizhidong-creator/CreateWorld)
 [![AI Meeting Room System](https://github-readme-stats.vercel.app/api/pin/?username=Leizhidong-creator&repo=AI-Meeting-Room-System&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Leizhidong-creator/AI-Meeting-Room-System)
 [![Multi-Agent Disaster Simulation](https://github-readme-stats.vercel.app/api/pin/?username=Leizhidong-creator&repo=Multi-Agent-Disaster-Simulation&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Leizhidong-creator/Multi-Agent-Disaster-Simulation)
 [![AI Restaurant Startup Video Guidance](https://github-readme-stats.vercel.app/api/pin/?username=Leizhidong-creator&repo=AI-Restaurant-Startup-Video-Guidance&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Leizhidong-creator/AI-Restaurant-Startup-Video-Guidance)
