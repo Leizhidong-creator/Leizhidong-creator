@@ -75,7 +75,7 @@ location: Taiyuan, Shanxi, China
 
 **Create World** 是一个 AI 游戏创作平台。给它一句话、一段小说或一集剧本，它做成一款能玩的 **2D 像素剧情游戏**；做完可以改，可以发布，也可以被别人二创。
 
-团队 4 人。我参与前端与产品体验：工作台、创作入口、社区与插件页面。
+团队 4 人。我是产品及生态规划负责人，负责产品定义、插件生态与创作流程。
 
 [在线体验](https://createworld.games) · [源码](https://github.com/Leizhidong-creator/CreateWorld) · [产品介绍](https://github.com/Leizhidong-creator/CreateWorld/blob/main/PRODUCT.md)
 
